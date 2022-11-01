@@ -4,7 +4,7 @@ Our first project for Embedded Software
   - Professor Ciaran Macnamee
   - Setup
     - ATmega4809 microcontroller (Arduino Nano Every)
-    - custom shield made by professor ("CiaranShield 1 0.1")
+    - custom shield made by Professor ("CiaranShield 4")
     - Microchip Studio 7.0
     - avrdude batch file (given by Professor, to program the chip)
 
